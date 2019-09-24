@@ -1,58 +1,35 @@
-# ticket
-Ò»¸öÇ°ºó¶Ë·ÖÀëµÄ¹¤µ¥¹ÜÀíÏµÍ³£¬ÏîÄ¿²ÉÓÃSpringBoot+Vue¿ª·¢
 
-ÏîÄ¿µØÖ·£º[http://www.stevlu.com](http://www.stevlu.com)
-ÏîÄ¿¸ù¾Ý https://github.com/lenve/vhr Î¢ÈËÊÂ¿ª·¢£¬Ëù×öµÄÐÞ¸ÄÊÇ½«Êý¾Ý¿âÅ²µ½OracleÉÏ£¬²¢¾¡Á¿¼ò»¯Ç°ºó¶Ë´úÂë£¬
-½«µÇÂ½¡¢È¨ÏÞ¡¢½ÇÉ«¡¢²Ëµ¥¡¢Í¨Öª¡¢ÓÊ¼þÕâÐ©¹«¹²¹¦ÄÜÓèÒÔ±£Áô£¬½«ºóÌ¨ÒµÎñ±í³ýÊý¾Ý×ÖµäÍâ¶¼ÓèÒÔÇå³ý£¬Á¦Õù×öµ½¼ò½àÃ÷¿ì¡¢ÇáÁ¿»¯£¬
-ÈÃÊ¹ÓÃµÄÈËÒ»ÉÏÀ´¾ÍÄÜ½«Ç°ºó¶ËÏîÄ¿ÅÜÆðÀ´£¬±ãÓÚÀ©Õ¹×Ô¼ºµÄÒµÎñ¡£»¶Ó­ÄúÁªÏµstevlu@qq.comÌá³ö±¦¹óÒâ¼û¡£
+# å¿«é€Ÿéƒ¨ç½²
 
-# ¼¼ÊõÕ»
+1.cloneé¡¹ç›®åˆ°æœ¬åœ°```https://github.com/stevlu/ticket.git```
 
-## ºó¶Ë¼¼ÊõÕ»
+2.æ•°æ®åº“è„šæœ¬æ”¾åœ¨ticketserveré¡¹ç›®çš„resourcesç›®å½•ä¸‹ï¼Œåœ¨Oracleä¸­æ‰§è¡Œæ•°æ®åº“è„šæœ¬OracleSetup.sqlï¼ŒåŒ…æ‹¬å»ºè¡¨ã€sequenceã€triggerã€procedureï¼ŒåŠæ’å…¥æµ‹è¯•å†…å®¹
 
-1.SpringBoot  
-2.SpringSecurity  
-3.MyBatis  
-4.Oracle
+3.æ•°æ®åº“é…ç½®åœ¨ticketserveré¡¹ç›®çš„resourcesç›®å½•ä¸‹çš„application.propertiesæ–‡ä»¶ä¸­  
 
-## Ç°¶Ë¼¼ÊõÕ»
+4.åœ¨IntelliJ IDEAä¸­è¿è¡Œticketserveré¡¹ç›®  
 
-1.Vue  
-2.ElementUI  
-3.axios  
-4.vue-router
+**OKï¼Œè‡³æ­¤ï¼ŒæœåŠ¡ç«¯å°±å¯åŠ¨æˆåŠŸäº†ï¼Œæ­¤æ—¶æˆ‘ä»¬ç›´æŽ¥åœ¨åœ°å€æ è¾“å…¥```http://localhost:8082/index.html```å³å¯è®¿é—®æˆ‘ä»¬çš„é¡¹ç›®ï¼Œå¦‚æžœè¦åšäºŒæ¬¡å¼€å‘ï¼Œè¯·ç»§ç»­çœ‹ç¬¬äº”ã€å…­æ­¥ã€‚**  
 
-# ¿ìËÙ²¿Êð
-
-1.cloneÏîÄ¿µ½±¾µØ```https://github.com/stevlu/ticket.git```
-
-2.Êý¾Ý¿â½Å±¾·ÅÔÚticketserverÏîÄ¿µÄresourcesÄ¿Â¼ÏÂ£¬ÔÚOracleÖÐÖ´ÐÐÊý¾Ý¿â½Å±¾OracleSetup.sql£¬°üÀ¨½¨±í¡¢sequence¡¢trigger¡¢procedure£¬¼°²åÈë²âÊÔÄÚÈÝ
-
-3.Êý¾Ý¿âÅäÖÃÔÚticketserverÏîÄ¿µÄresourcesÄ¿Â¼ÏÂµÄapplication.propertiesÎÄ¼þÖÐ  
-
-4.ÔÚIntelliJ IDEAÖÐÔËÐÐticketserverÏîÄ¿  
-
-**OK£¬ÖÁ´Ë£¬·þÎñ¶Ë¾ÍÆô¶¯³É¹¦ÁË£¬´ËÊ±ÎÒÃÇÖ±½ÓÔÚµØÖ·À¸ÊäÈë```http://localhost:8082/index.html```¼´¿É·ÃÎÊÎÒÃÇµÄÏîÄ¿£¬Èç¹ûÒª×ö¶þ´Î¿ª·¢£¬Çë¼ÌÐø¿´µÚÎå¡¢Áù²½¡£**  
-
-5.½øÈëµ½ticketuiÄ¿Â¼ÖÐ£¬ÔÚÃüÁîÐÐÒÀ´ÎÊäÈëÈçÏÂÃüÁî£º  
+5.è¿›å…¥åˆ°ticketuiç›®å½•ä¸­ï¼Œåœ¨å‘½ä»¤è¡Œä¾æ¬¡è¾“å…¥å¦‚ä¸‹å‘½ä»¤ï¼š  
 
 ```
-# °²×°ÒÀÀµ
+# å®‰è£…ä¾èµ–
 npm install
 
-# ÔÚ localhost:80 Æô¶¯ÏîÄ¿
+# åœ¨ localhost:80 å¯åŠ¨é¡¹ç›®
 npm run dev
 ```  
 
-ÓÉÓÚÎÒÔÚticketuiÏîÄ¿ÖÐÒÑ¾­ÅäÖÃÁË¶Ë¿Ú×ª·¢£¬½«Êý¾Ý×ª·¢µ½SpringBootÉÏ£¬Òò´ËÏîÄ¿Æô¶¯Ö®ºó£¬ÔÚä¯ÀÀÆ÷ÖÐÊäÈë```http://localhost:80```¾Í¿ÉÒÔ·ÃÎÊÎÒÃÇµÄÇ°¶ËÏîÄ¿ÁË£¬ËùÓÐµÄÇëÇóÍ¨¹ý¶Ë¿Ú×ª·¢½«Êý¾Ý´«µ½SpringBootÖÐ£¨×¢Òâ´ËÊ±²»Òª¹Ø±ÕSpringBootÏîÄ¿£©¡£  
+ç”±äºŽæˆ‘åœ¨ticketuié¡¹ç›®ä¸­å·²ç»é…ç½®äº†ç«¯å£è½¬å‘ï¼Œå°†æ•°æ®è½¬å‘åˆ°SpringBootä¸Šï¼Œå› æ­¤é¡¹ç›®å¯åŠ¨ä¹‹åŽï¼Œåœ¨æµè§ˆå™¨ä¸­è¾“å…¥```http://localhost:80```å°±å¯ä»¥è®¿é—®æˆ‘ä»¬çš„å‰ç«¯é¡¹ç›®äº†ï¼Œæ‰€æœ‰çš„è¯·æ±‚é€šè¿‡ç«¯å£è½¬å‘å°†æ•°æ®ä¼ åˆ°SpringBootä¸­ï¼ˆæ³¨æ„æ­¤æ—¶ä¸è¦å…³é—­SpringBooté¡¹ç›®ï¼‰ã€‚  
 
-6.×îºó¿ÉÒÔÓÃWebStormµÈ¹¤¾ß´ò¿ªticketuiÏîÄ¿£¬¼ÌÐø¿ª·¢£¬¿ª·¢Íê³Éºó£¬µ±ÏîÄ¿ÒªÉÏÏßÊ±£¬ÒÀÈ»½øÈëµ½ticketuiÄ¿Â¼£¬È»ºóÖ´ÐÐÈçÏÂÃüÁî£º  
+6.æœ€åŽå¯ä»¥ç”¨WebStormç­‰å·¥å…·æ‰“å¼€ticketuié¡¹ç›®ï¼Œç»§ç»­å¼€å‘ï¼Œå¼€å‘å®ŒæˆåŽï¼Œå½“é¡¹ç›®è¦ä¸Šçº¿æ—¶ï¼Œä¾ç„¶è¿›å…¥åˆ°ticketuiç›®å½•ï¼Œç„¶åŽæ‰§è¡Œå¦‚ä¸‹å‘½ä»¤ï¼š  
 
 ```
 npm run build
 ```  
 
-¸ÃÃüÁîÖ´ÐÐ³É¹¦Ö®ºó£¬ticketuiÄ¿Â¼ÏÂÉú³ÉÒ»¸ödistÎÄ¼þ¼Ð£¬½«¸ÃÎÄ¼þ¼ÐÖÐµÄÁ½¸öÎÄ¼þstaticºÍindex.html¿½±´µ½SpringBootÏîÄ¿ÖÐresources/static/Ä¿Â¼ÏÂ£¬È»ºó¾Í¿ÉÒÔÏñµÚ4²½ÄÇÑùÖ±½Ó·ÃÎÊÁË¡£  
+è¯¥å‘½ä»¤æ‰§è¡ŒæˆåŠŸä¹‹åŽï¼Œticketuiç›®å½•ä¸‹ç”Ÿæˆä¸€ä¸ªdistæ–‡ä»¶å¤¹ï¼Œå°†è¯¥æ–‡ä»¶å¤¹ä¸­çš„ä¸¤ä¸ªæ–‡ä»¶staticå’Œindex.htmlæ‹·è´åˆ°SpringBooté¡¹ç›®ä¸­resources/static/ç›®å½•ä¸‹ï¼Œç„¶åŽå°±å¯ä»¥åƒç¬¬4æ­¥é‚£æ ·ç›´æŽ¥è®¿é—®äº†ã€‚  
 
 
-**²½Öè5ÖÐÐèÒª´ó¼Ò¶ÔNodeJS¡¢NPMµÈÓÐÒ»¶¨µÄÊ¹ÓÃ¾­Ñé£¬²»ÊìÏ¤µÄÐ¡»ï°é¿ÉÒÔÏÈ×ÔÐÐËÑË÷Ñ§Ï°ÏÂ£¬ÍÆ¼ö[Vue¹Ù·½½Ì³Ì](https://cn.vuejs.org/v2/guide/)¡£**  
+**æ­¥éª¤5ä¸­éœ€è¦å¤§å®¶å¯¹NodeJSã€NPMç­‰æœ‰ä¸€å®šçš„ä½¿ç”¨ç»éªŒï¼Œä¸ç†Ÿæ‚‰çš„å°ä¼™ä¼´å¯ä»¥å…ˆè‡ªè¡Œæœç´¢å­¦ä¹ ä¸‹ï¼ŒæŽ¨è[Vueå®˜æ–¹æ•™ç¨‹](https://cn.vuejs.org/v2/guide/)ã€‚**  
